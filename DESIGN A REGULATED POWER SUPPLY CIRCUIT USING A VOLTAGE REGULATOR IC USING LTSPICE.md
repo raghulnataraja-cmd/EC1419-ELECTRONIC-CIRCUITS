@@ -7,9 +7,11 @@
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
 ## Tabulations
+<img width="1600" height="1430" alt="image" src="https://github.com/user-attachments/assets/4e9c52a0-e653-4d3d-a03a-bfec761e7703" />
 
-## Graph
+## Output waveform
+<img width="897" height="1146" alt="image" src="https://github.com/user-attachments/assets/877fa557-3ec3-47a9-acd0-4509052d0f29" />
 
-
+##result
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
 
